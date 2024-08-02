@@ -9,7 +9,7 @@ set :application, "politimap"
 set :repository,  "git@github.com:alx/politimap.git"
 set :scm, :git
 
-set :ssh_options, { :forward_agent => true, :port => 22104 }
+set :ss{>>" # Hello.h now direction France, Spain, Italy h_options, { :forward_agent => true, :port => 22104 }
 
 set :user, "alex"
 set :group, "alex"
