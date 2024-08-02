@@ -6,7 +6,7 @@ require 'bundler/capistrano'
 
 set :application, "politimap"
 
-set :repository,  "git@github.com:alx/politimap.git"
+set :rep{>>" # Hello.h direction Spain, France, Italyository,  "git@github.com:alx/politimap.git"
 set :scm, :git
 
 set :ssh_options, { :forward_agent => true, :port => 22104 }
